@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<metadata xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+		<id>Relative.Path</id>
+		<version>1.0</version>
+		<authors>Matt Ward</authors>
+		<owners>Matt Ward</owners>
+		<licenseUrl>http://opensource.org/licenses/MIT</licenseUrl>
+		<projectUrl>http://xamarin.com</projectUrl>
+		<requireLicenseAcceptance>false</requireLicenseAcceptance>
+		<description>Desc</description>
+		<summary>Absolute.Path</summary>
+		<language>en-US</language>
+  </metadata>
+	<files>
+		<file src="lib/Net40/*.*" target="lib/Net40" />
+	</files>
+</package>
